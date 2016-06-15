@@ -1,2 +1,3 @@
-# sent_analysis
-Sentiment analysis using mean.js and stuff
+# sent-analysis
+Sentiment analysis using mean.js and stuff.
+Yo mama so fat
